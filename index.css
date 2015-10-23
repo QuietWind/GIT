@@ -1,0 +1,18 @@
+.box {
+  height: 100px;
+  background: #000;
+}
+
+.ni {
+  line-height: 400px;
+  height: 100px;
+}
+
+.hide {
+  height: 300px;
+  display: none !important;
+}
+
+.bo {
+  height: 200px;
+}
